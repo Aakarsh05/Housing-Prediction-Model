@@ -33,3 +33,7 @@ The dataset contains information on various localities, house prices, the number
 
 ## Usage
 Users can input the desired locality, number of BHKs, and other relevant details to get an estimated price for homes in different regions of Bangalore. The app provides a user-friendly interface to interact with the data and make informed decisions.
+
+
+https://github.com/user-attachments/assets/770433d5-77ec-432f-9fc5-845b078ea81b
+
